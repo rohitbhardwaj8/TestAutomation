@@ -32,6 +32,7 @@ public void Google_Search() {
 	String actual=driver.getTitle();
 	//Assert.assertEquals(actual, "Selenium");
 	System.out.println("Page Title is: " + actual);
+
 	
 }
 
